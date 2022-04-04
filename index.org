@@ -2,7 +2,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./estilo-org.css" />
 #+OPTIONS: html-preamble:nil
 #+OPTIONS: html-postamble:nil
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:t
 #+OPTIONS: num:t
 
 * Antonio Machado
