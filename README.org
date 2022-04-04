@@ -6,10 +6,10 @@
 ** Al borde del sendero un día nos sentamos.
 
 #+begin_verse
-Al borde del sendero un día nos sentamos.        \\
-Ya nuestra vida es tiempo, y nuestra sola cuita  \\
-son las desesperantes posturas que tomamos       \\
-para aguardar.... Mas Ella no faltará a la cita. \\
+Al borde del sendero un día nos sentamos.
+Ya nuestra vida es tiempo, y nuestra sola cuita
+son las desesperantes posturas que tomamos
+para aguardar.... Mas Ella no faltará a la cita.
 #+end_verse
 
 ** He andado muchos caminos
