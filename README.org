@@ -5,236 +5,224 @@
 
 ** Al borde del sendero un día nos sentamos
 
-#+begin_src
-Al borde del sendero un día nos sentamos.
-Ya nuestra vida es tiempo, y nuestra sola cuita
-son las desesperantes posturas que tomamos
-para aguardar.... Mas Ella no faltará a la cita.
-#+end_src
+Al borde del sendero un día nos sentamos.         \\
+Ya nuestra vida es tiempo, y nuestra sola cuita   \\
+son las desesperantes posturas que tomamos        \\
+para aguardar.... Mas Ella no faltará a la cita.  \\
 
 ** He andado muchos caminos
 
-#+begin_src
-He andado muchos caminos,
-he abierto muchas veredas;
-he navegado en cien mares,
-y atracado en cien riberas.
-
-En todas partes he visto
-caravanas de tristeza,
-soberbios y melancólicos
-borrachos de sombra negra,
-y pedantones al paño
-que miran, callan, y piensan
-que saben, porque no beben
-el vino de las tabernas.
-
-Mala gente que camina
-y va apestando la tierra...
-
-Y en todas partes he visto
-gentes que danzan o juegan,
-cuando pueden, y laboran
-sus cuatro palmos de tierra.
-
-Nunca, si llegan a un sitio,
-preguntan adonde llegan.
-Cuando caminan, cabalgan
-a lomos de mula vieja,
-y no conocen la prisa
-ni aun en los días de fiesta.
-
-Donde hay vino, beben vino;
-donde no hay vino, agua fresca.
-
-Son buenas gentes que viven,
-laboran, pasan y sueñan,
-y en un día como tantos,
-descansan bajo la tierra.
-#+end_src
+He andado muchos caminos,        \\
+he abierto muchas veredas;       \\
+he navegado en cien mares,       \\
+y atracado en cien riberas.      \\
+                                 \\
+En todas partes he visto         \\
+caravanas de tristeza,           \\
+soberbios y melancólicos         \\
+borrachos de sombra negra,       \\
+y pedantones al paño             \\
+que miran, callan, y piensan     \\
+que saben, porque no beben       \\
+el vino de las tabernas.         \\
+                                 \\
+Mala gente que camina            \\
+y va apestando la tierra...      \\
+                                 \\
+Y en todas partes he visto       \\
+gentes que danzan o juegan,      \\
+cuando pueden, y laboran         \\
+sus cuatro palmos de tierra.     \\
+                                 \\
+Nunca, si llegan a un sitio,     \\
+preguntan adonde llegan.         \\
+Cuando caminan, cabalgan         \\
+a lomos de mula vieja,           \\
+y no conocen la prisa            \\
+ni aun en los días de fiesta.    \\
+                                 \\
+Donde hay vino, beben vino;      \\
+donde no hay vino, agua fresca.  \\
+                                 \\
+Son buenas gentes que viven,     \\
+laboran, pasan y sueñan,         \\
+y en un día como tantos,         \\
+descansan bajo la tierra.        \\
 
 ** Oh soledad
 
-#+begin_src
-¡Oh soledad, mi sola compañía,
-oh musa del portento, que el vocablo
-diste a mi voz que nunca te pedía!,
-responde a mi pregunta: ¿con quién hablo?
-
-Ausente de ruidosa mascarada,
-divierto mi tristeza sin amigo,
-contigo, dueña de la faz velada,
-siempre velada al dialogar conmigo.
-
-Hoy pienso: este que soy será quien sea;
-no es ya mi grave enigma este semblante
-que en el íntimo espejo se recrea,
-sino el misterio de tu voz amante.
-
-Descúbreme tu rostro, que yo vea
-fijos en mí tus ojos de diamante.
-#+end_src
+¡Oh soledad, mi sola compañía,             \\
+oh musa del portento, que el vocablo       \\
+diste a mi voz que nunca te pedía!,        \\
+responde a mi pregunta: ¿con quién hablo?  \\
+                                           \\
+Ausente de ruidosa mascarada,              \\
+divierto mi tristeza sin amigo,            \\
+contigo, dueña de la faz velada,           \\
+siempre velada al dialogar conmigo.        \\
+                                           \\
+Hoy pienso: este que soy será quien sea;   \\
+no es ya mi grave enigma este semblante    \\
+que en el íntimo espejo se recrea,         \\
+sino el misterio de tu voz amante.         \\
+                                           \\
+Descúbreme tu rostro, que yo vea           \\
+fijos en mí tus ojos de diamante.          \\
 
 ** Recuerdo infantil
 
-#+begin_src
-Una tarde parda y fría
-de invierno. Los colegiales
-estudian. Monotonía
-de lluvia tras los cristales.
-
-Es la clase. En un cartel
-se representa a Caín
-fugitivo, y muerto Abel,
-junto a una mancha carmín.
-
-Con timbre sonoro y hueco
-truena el maestro, un anciano
-mal vestido, enjuto y seco,
-que lleva un libro en la mano.
-
-Y todo un coro infantil
-va cantando la lección;
-mil veces ciento, cien mil,
-mil veces mil, un millón.
-
-Una tarde parda y fría
-de invierno. Los colegiales
-estudian. Monotonía
-de la lluvia en los cristales.
-#+end_src
+Una tarde parda y fría          \\
+de invierno. Los colegiales     \\
+estudian. Monotonía             \\
+de lluvia tras los cristales.   \\
+                                \\
+Es la clase. En un cartel       \\
+se representa a Caín            \\
+fugitivo, y muerto Abel,        \\
+junto a una mancha carmín.      \\
+                                \\
+Con timbre sonoro y hueco       \\
+truena el maestro, un anciano   \\
+mal vestido, enjuto y seco,     \\
+que lleva un libro en la mano.  \\
+                                \\
+Y todo un coro infantil         \\
+va cantando la lección;         \\
+mil veces ciento, cien mil,     \\
+mil veces mil, un millón.       \\
+                                \\
+Una tarde parda y fría          \\
+de invierno. Los colegiales     \\
+estudian. Monotonía             \\
+de la lluvia en los cristales.  \\
 
 ** Yo voy soñando caminos
 
-#+begin_src
-Yo voy soñando caminos
-de la tarde. ¡Las colinas
-doradas, los verdes pinos,
-las polvorientas encinas!...
-¿Adonde el camino irá?
-Yo voy cantando, viajero
-a lo largo del sendero...
--- La tarde cayendo está --,
-"En el corazón tenía
-la espina de una pasión;
-logré arrancármela un día:
-ya no siento el corazón."
-
-Y todo el campo un momento
-se queda, mudo y sombrío,
-meditando. Suena el viento
-en los álamos del río.
-
-La tarde más se obscurece;
-y el camino que serpea
-y débilmente blanquea,
-se enturbia y desaparece.
-
-Mi cantar vuelve a plañir:
-"Aguda espina dorada,
-quién te pudiera sentir
-en el corazón clavada."
-#+end_src
+Yo voy soñando caminos        \\
+de la tarde. ¡Las colinas     \\
+doradas, los verdes pinos,    \\
+las polvorientas encinas!...  \\
+¿Adonde el camino irá?        \\
+Yo voy cantando, viajero      \\
+a lo largo del sendero...     \\
+-- La tarde cayendo está --,  \\
+"En el corazón tenía          \\
+la espina de una pasión;      \\
+logré arrancármela un día:    \\
+ya no siento el corazón."     \\
+                              \\
+Y todo el campo un momento    \\
+se queda, mudo y sombrío,     \\
+meditando. Suena el viento    \\
+en los álamos del río.        \\
+                              \\
+La tarde más se obscurece;    \\
+y el camino que serpea        \\
+y débilmente blanquea,        \\
+se enturbia y desaparece.     \\
+                              \\
+Mi cantar vuelve a plañir:    \\
+"Aguda espina dorada,         \\
+quién te pudiera sentir       \\
+en el corazón clavada."       \\
 
 * Sor Juana Ines de la Cruz
 
 ** Finjamos que soy feliz
 
-#+begin_src
-Finjamos que soy feliz,triste pensamiento, un rato;
-quizá podréis persuadirme,aunque yo sé lo contrario,
-que pues sólo en la aprehensión
-dicen que estriban los daños,si os imagináis dichoso
-no seréis tan desdichado.
-
-Sírvame el entendimiento, alguna vez de descanso,
-y no siempre esté el ingeniocon el provecho encontrado.
-Todo el mundo es opiniones
-de pareceres tan varios, que lo que el uno que es negro
-el otro prueba que es blanco.
-
-A unos sirve de atractivo, lo que otro concibe enfado;
-y lo que éste por alivio, aquél tiene por trabajo.
-El que está triste,censura al alegre de liviano;
-y el que esta alegre se burlade ver al triste penando.
-Los dos filósofos griegos, bien esta verdad probaron:
-pues lo que en el uno risa, causaba en el otro llanto.
-
-Célebre su oposición
-ha sido por siglos tantos,sin que cuál acertó, esté
-hasta agora averiguado.
-Antes, en sus dos banderas, el mundo todo alistado,
-conforme el humor le dicta,sigue cada cual el bando.
-Uno dice que de risa,
-sólo es digno el mundo vario;
-y otro, que sus infortunios, son sólo para llorados.
-Para todo se halla prueba
-y razón en qué fundarlo;
-y no hay razón para nada, de haber razón para tanto.
-
-Todos son iguales jueces;
-y siendo iguales y varios, no hay quien pueda decidir,
-cuál es lo más acertado.
-Pues, si no hay quien lo sentencie,
-¿por qué pensáis, vos, errado,que os cometió
-Dios a vos, la decisión de los casos?
-O ¿por qué, contra vos mismo,
-severamente inhumano, entre lo amargo y lo dulce,
-queréis elegir lo amargo?
-
-Si es mío mi entendimiento, ¿por qué siempre he de encontrarlo
-tan torpe para el alivio,
-tan agudo para el daño?
-El discurso es un aceroque sirve para ambos cabos:
-de dar muerte, por la punta,por el pomo, de resguardo.
-Si vos, sabiendo el peligro
-queréis por la punta usarlo, ¿qué culpa tiene el acero
-del mal uso de la mano?
-
-No es saber, saber hacer discursos sutiles,
-vanos;que el saber consiste sólo, en elegir lo más sano.
-Especular las desdichas, y examinar los presagios,
-sólo sirve de que el malcrezca con anticiparlo.
-En los trabajos futuros,
-la atención, sutilizando,más formidable que el riesgos
-uele fingir el amago.
-
-Qué feliz es la ignorancia del que, indoctamente sabio,
-halla de lo que padece,en lo que ignora, sagrado!
-No siempre suben seguros vuelos del ingenio osados,
-que buscan trono en el fuego y hallan sepulcro en el llanto.
-
-También es vicio el saber, que si no se va atajando,
-cuando menos se conoce es más nocivo el estrago;
-y si el vuelo no le abaten, en sutilezas cebado,
-por cuidar de lo curioso, olvida lo necesario.
-
-Si culta mano no impide crecer al árbol copado,
-quita la sustancia al frutola locura de los ramos.
-Si andar a nave ligerano estorba lastre pesado,
-sirve el vuelo de que sea, el precipicio más alto.
-
-En amenidad inútil, ¿qué importa al florido campo,
-si no halla fruto el otoño, que ostente flores el mayo?
-¿De qué sirve al ingenio, el producir muchos partos,
-si a la multitud se sigue el malogro de abortarlos?
-
-Y a esta desdicha por fuerza ha de seguirse el fracaso,
-de quedar el que produce, si no muerto, lastimado.
-El ingenio es como el fuego, que, con la materia ingrato,
-tanto la consume más cuando él se ostenta más claro.
-
-Es de su propio Señor tan rebelado vasallo,
-que convierte en sus ofensas las armas de su resguardo.
-Este pésimo ejercicio,este duro afán pesado,
-a los ojos de los hombres dio Dios para ejercitarlos.
-¿Qué loca ambición nos llevade nosotros olvidados?
-
-Si es para vivir tan poco, ¿de qué sirve saber tanto?
-¡Oh, si como hay de saber, hubiera algún seminario o escuela
-donde a ignorarse enseñaran los trabajos! ¡Qué felizmente viviera
-el que, flojamente cauto, burlara las amenazas del influjo de los astros!
-
-Aprendamos a ignorar, pensamiento, pues hallamos
-que cuanto añado al discurso, tanto le usurpo a los años.
-#+end_src
+Finjamos que soy feliz,triste pensamiento, un rato;                        \\
+quizá podréis persuadirme,aunque yo sé lo contrario,                       \\
+que pues sólo en la aprehensión                                            \\
+dicen que estriban los daños,si os imagináis dichoso                       \\
+no seréis tan desdichado.                                                  \\
+                                                                           \\
+Sírvame el entendimiento, alguna vez de descanso,                          \\
+y no siempre esté el ingeniocon el provecho encontrado.                    \\
+Todo el mundo es opiniones                                                 \\
+de pareceres tan varios, que lo que el uno que es negro                    \\
+el otro prueba que es blanco.                                              \\
+                                                                           \\
+A unos sirve de atractivo, lo que otro concibe enfado;                     \\
+y lo que éste por alivio, aquél tiene por trabajo.                         \\
+El que está triste,censura al alegre de liviano;                           \\
+y el que esta alegre se burlade ver al triste penando.                     \\
+Los dos filósofos griegos, bien esta verdad probaron:                      \\
+pues lo que en el uno risa, causaba en el otro llanto.                     \\
+                                                                           \\
+Célebre su oposición                                                       \\
+ha sido por siglos tantos,sin que cuál acertó, esté                        \\
+hasta agora averiguado.                                                    \\
+Antes, en sus dos banderas, el mundo todo alistado,                        \\
+conforme el humor le dicta,sigue cada cual el bando.                       \\
+Uno dice que de risa,                                                      \\
+sólo es digno el mundo vario;                                              \\
+y otro, que sus infortunios, son sólo para llorados.                       \\
+Para todo se halla prueba                                                  \\
+y razón en qué fundarlo;                                                   \\
+y no hay razón para nada, de haber razón para tanto.                       \\
+                                                                           \\
+Todos son iguales jueces;                                                  \\
+y siendo iguales y varios, no hay quien pueda decidir,                     \\
+cuál es lo más acertado.                                                   \\
+Pues, si no hay quien lo sentencie,                                        \\
+¿por qué pensáis, vos, errado,que os cometió                               \\
+Dios a vos, la decisión de los casos?                                      \\
+O ¿por qué, contra vos mismo,                                              \\
+severamente inhumano, entre lo amargo y lo dulce,                          \\
+queréis elegir lo amargo?                                                  \\
+                                                                           \\
+Si es mío mi entendimiento, ¿por qué siempre he de encontrarlo             \\
+tan torpe para el alivio,                                                  \\
+tan agudo para el daño?                                                    \\
+El discurso es un aceroque sirve para ambos cabos:                         \\
+de dar muerte, por la punta,por el pomo, de resguardo.                     \\
+Si vos, sabiendo el peligro                                                \\
+queréis por la punta usarlo, ¿qué culpa tiene el acero                     \\
+del mal uso de la mano?                                                    \\
+                                                                           \\
+No es saber, saber hacer discursos sutiles,                                \\
+vanos;que el saber consiste sólo, en elegir lo más sano.                   \\
+Especular las desdichas, y examinar los presagios,                         \\
+sólo sirve de que el malcrezca con anticiparlo.                            \\
+En los trabajos futuros,                                                   \\
+la atención, sutilizando,más formidable que el riesgos                     \\
+uele fingir el amago.                                                      \\
+                                                                           \\
+Qué feliz es la ignorancia del que, indoctamente sabio,                    \\
+halla de lo que padece,en lo que ignora, sagrado!                          \\
+No siempre suben seguros vuelos del ingenio osados,                        \\
+que buscan trono en el fuego y hallan sepulcro en el llanto.               \\
+                                                                           \\
+También es vicio el saber, que si no se va atajando,                       \\
+cuando menos se conoce es más nocivo el estrago;                           \\
+y si el vuelo no le abaten, en sutilezas cebado,                           \\
+por cuidar de lo curioso, olvida lo necesario.                             \\
+                                                                           \\
+Si culta mano no impide crecer al árbol copado,                            \\
+quita la sustancia al frutola locura de los ramos.                         \\
+Si andar a nave ligerano estorba lastre pesado,                            \\
+sirve el vuelo de que sea, el precipicio más alto.                         \\
+                                                                           \\
+En amenidad inútil, ¿qué importa al florido campo,                         \\
+si no halla fruto el otoño, que ostente flores el mayo?                    \\
+¿De qué sirve al ingenio, el producir muchos partos,                       \\
+si a la multitud se sigue el malogro de abortarlos?                        \\
+                                                                           \\
+Y a esta desdicha por fuerza ha de seguirse el fracaso,                    \\
+de quedar el que produce, si no muerto, lastimado.                         \\
+El ingenio es como el fuego, que, con la materia ingrato,                  \\
+tanto la consume más cuando él se ostenta más claro.                       \\
+                                                                           \\
+Es de su propio Señor tan rebelado vasallo,                                \\
+que convierte en sus ofensas las armas de su resguardo.                    \\
+Este pésimo ejercicio,este duro afán pesado,                               \\
+a los ojos de los hombres dio Dios para ejercitarlos.                      \\
+¿Qué loca ambición nos llevade nosotros olvidados?                         \\
+                                                                           \\
+Si es para vivir tan poco, ¿de qué sirve saber tanto?                      \\
+¡Oh, si como hay de saber, hubiera algún seminario o escuela               \\
+donde a ignorarse enseñaran los trabajos! ¡Qué felizmente viviera          \\
+el que, flojamente cauto, burlara las amenazas del influjo de los astros!  \\
+                                                                           \\
+Aprendamos a ignorar, pensamiento, pues hallamos                           \\
+que cuanto añado al discurso, tanto le usurpo a los años.                  \\
