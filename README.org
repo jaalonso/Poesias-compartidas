@@ -13,6 +13,7 @@ para aguardar.... Mas Ella no faltará a la cita.  \\
 
 ** He andado muchos caminos
 
+#+begin_src
 He andado muchos caminos,        \\
 he abierto muchas veredas;       \\
 he navegado en cien mares,       \\
@@ -49,9 +50,11 @@ Son buenas gentes que viven,     \\
 laboran, pasan y sueñan,         \\
 y en un día como tantos,         \\
 descansan bajo la tierra.        \\
+#+end_src
 
 ** Oh soledad
 
+#+begin_src
 ¡Oh soledad, mi sola compañía,             \\
 oh musa del portento, que el vocablo       \\
 diste a mi voz que nunca te pedía!,        \\
@@ -69,9 +72,11 @@ sino el misterio de tu voz amante.         \\
                                            \\
 Descúbreme tu rostro, que yo vea           \\
 fijos en mí tus ojos de diamante.          \\
+#+end_src
 
 ** Recuerdo infantil
 
+#+begin_src
 Una tarde parda y fría          \\
 de invierno. Los colegiales     \\
 estudian. Monotonía             \\
@@ -96,9 +101,11 @@ Una tarde parda y fría          \\
 de invierno. Los colegiales     \\
 estudian. Monotonía             \\
 de la lluvia en los cristales.  \\
+#+end_src
 
 ** Yo voy soñando caminos
 
+#+begin_src
 Yo voy soñando caminos        \\
 de la tarde. ¡Las colinas     \\
 doradas, los verdes pinos,    \\
@@ -126,12 +133,13 @@ Mi cantar vuelve a plañir:    \\
 "Aguda espina dorada,         \\
 quién te pudiera sentir       \\
 en el corazón clavada."       \\
-
+#+end_src
 
 * Sor Juana Ines de la Cruz
 
 ** Finjamos que soy feliz
 
+#+begin_src
 Finjamos que soy feliz,triste pensamiento, un rato;                        \\
 quizá podréis persuadirme,aunque yo sé lo contrario,                       \\
 que pues sólo en la aprehensión                                            \\
@@ -228,3 +236,4 @@ el que, flojamente cauto, burlara las amenazas del influjo de los astros!  \\
                                                                            \\
 Aprendamos a ignorar, pensamiento, pues hallamos                           \\
 que cuanto añado al discurso, tanto le usurpo a los años.                  \\
+#+end_src
