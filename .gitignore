@@ -1,2 +1,3 @@
 *.org
 *.el
+/.index.org.epub.pandoc
